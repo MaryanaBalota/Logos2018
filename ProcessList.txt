@@ -1,0 +1,87 @@
+
+Image Name                     PID Services                                    
+========================= ======== ============================================
+svchost.exe                    920 PlugPlay                                    
+svchost.exe                    948 BrokerInfrastructure, DcomLaunch, Power,    
+                                   SystemEventsBroker                          
+svchost.exe                     76 RpcEptMapper, RpcSs                         
+svchost.exe                    548 LSM                                         
+svchost.exe                   1060 DeviceInstall                               
+svchost.exe                   1156 BFE, CoreMessagingRegistrar, mpssvc         
+svchost.exe                   1412 hidserv                                     
+svchost.exe                   1524 TimeBrokerSvc                               
+svchost.exe                   1596 EventLog                                    
+svchost.exe                   1672 camsvc                                      
+svchost.exe                   1756 nsi                                         
+svchost.exe                   1796 ProfSvc                                     
+svchost.exe                   1804 SysMain                                     
+svchost.exe                   1812 EventSystem                                 
+svchost.exe                   1820 Themes                                      
+svchost.exe                   1896 Dhcp                                        
+svchost.exe                   1980 SENS                                        
+svchost.exe                   1996 lfsvc                                       
+svchost.exe                   1136 UserManager                                 
+svchost.exe                   2052 NlaSvc                                      
+svchost.exe                   2108 Dnscache                                    
+svchost.exe                   2136 AudioEndpointBuilder                        
+svchost.exe                   2144 FontCache                                   
+svchost.exe                   2296 netprofm                                    
+svchost.exe                   2312 LanmanServer                                
+svchost.exe                   2528 Winmgmt                                     
+svchost.exe                   2552 Audiosrv                                    
+svchost.exe                   2604 WinHttpAutoProxySvc                         
+svchost.exe                   2704 DusmSvc                                     
+svchost.exe                   2712 Wcmsvc                                      
+svchost.exe                   2764 StateRepository                             
+svchost.exe                   2908 ShellHWDetection                            
+svchost.exe                   3232 NcbService                                  
+svchost.exe                   3248 DeviceAssociationService                    
+svchost.exe                   3360 CryptSvc                                    
+svchost.exe                   3388 iphlpsvc                                    
+svchost.exe                   3420 DPS                                         
+svchost.exe                   3524 TrkWks                                      
+svchost.exe                   3660 WdiServiceHost                              
+svchost.exe                   4564 WlanSvc                                     
+svchost.exe                   4784 SstpSvc                                     
+svchost.exe                   4452 RasMan                                      
+svchost.exe                    960 PcaSvc                                      
+svchost.exe                   4380 SSDPSRV                                     
+svchost.exe                   4356 StorSvc                                     
+svchost.exe                   5060 UsoSvc                                      
+svchost.exe                   4288 Schedule                                    
+svchost.exe                   3916 LanmanWorkstation                           
+svchost.exe                   1840 wscsvc                                      
+svchost.exe                   3516 CDPSvc                                      
+svchost.exe                    812 WpnService                                  
+svchost.exe                   4996 TokenBroker                                 
+svchost.exe                   3828 DiagTrack                                   
+svchost.exe                   4888 CDPUserSvc_222df7                           
+svchost.exe                   5152 WpnUserService_222df7                       
+svchost.exe                   5484 TabletInputService                          
+svchost.exe                   6136 Appinfo                                     
+svchost.exe                   6256 OneSyncSvc_222df7,                          
+                                   PimIndexMaintenanceSvc_222df7,              
+                                   UnistoreSvc_222df7, UserDataSvc_222df7      
+svchost.exe                   6168 LicenseManager                              
+svchost.exe                   9764 SEMgrSvc                                    
+svchost.exe                   4896 wlidsvc                                     
+svchost.exe                   7352 BITS                                        
+svchost.exe                   2012 AppMgmt                                     
+svchost.exe                   8576 stisvc                                      
+svchost.exe                  12808 DsSvc                                       
+svchost.exe                  13780 seclogon                                    
+svchost.exe                   6332 CDPUserSvc_4efe65d                          
+svchost.exe                   6840 WpnUserService_4efe65d                      
+svchost.exe                  17952 OneSyncSvc_4efe65d,                         
+                                   PimIndexMaintenanceSvc_4efe65d,             
+                                   UnistoreSvc_4efe65d, UserDataSvc_4efe65d    
+svchost.exe                  18580 SDRSVC                                      
+svchost.exe                   4568 WdiSystemHost                               
+svchost.exe                   8600 CDPUserSvc_73ed7ca                          
+svchost.exe                   7164 WpnUserService_73ed7ca                      
+svchost.exe                  10040 PimIndexMaintenanceSvc_73ed7ca,             
+                                   UnistoreSvc_73ed7ca, UserDataSvc_73ed7ca    
+svchost.exe                  17380 Eaphost                                     
+svchost.exe                  25016 lmhosts                                     
+svchost.exe                  24152 ClipSVC                                     
+svchost.exe                  11408 AppXSvc                                     
